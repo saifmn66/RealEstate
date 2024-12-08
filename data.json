@@ -1,0 +1,77 @@
+[
+    {
+      "id": 1,
+      "title": "Modern Apartment in Sousse Center",
+      "price": 150000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+1+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+1+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+1+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+1+Secondary+3"
+      ],
+      "location": {
+        "lat": 35.8256,
+        "lng": 10.6369
+      }
+    },
+    {
+      "id": 2,
+      "title": "Cozy Family House Near Medina",
+      "price": 200000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+2+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+2+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+2+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+2+Secondary+3"
+      ],
+      "location": {
+        "lat": 35.8285,
+        "lng": 10.6402
+      }
+    },
+    {
+      "id": 3,
+      "title": "Luxurious Villa with Pool",
+      "price": 450000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+3+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+3+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+3+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+3+Secondary+3"
+      ],
+      "location": {
+        "lat": 35.8290,
+        "lng": 10.6324
+      }
+    },
+    {
+      "id": 4,
+      "title": "Beachfront Apartment",
+      "price": 300000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+4+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+4+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+4+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+4+Secondary+3"
+      ],
+      "location": {
+        "lat": 35.8300,
+        "lng": 10.6350
+      }
+    },
+    {
+      "id": 60,
+      "title": "Charming Studio Apartment",
+      "price": 100000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+60+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+60+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+60+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+60+Secondary+3"
+      ],
+      "location": {
+        "lat": 35.8220,
+        "lng": 10.6400
+      }
+    }
+  ]

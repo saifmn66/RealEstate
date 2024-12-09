@@ -1,77 +1,218 @@
 [
-    {
-      "id": 1,
-      "title": "Modern Apartment in Sousse Center",
-      "price": 150000,
-      "mainImage": "https://via.placeholder.com/600x400?text=House+1+Main",
-      "secondaryImages": [
-        "https://via.placeholder.com/300x200?text=House+1+Secondary+1",
-        "https://via.placeholder.com/300x200?text=House+1+Secondary+2",
-        "https://via.placeholder.com/300x200?text=House+1+Secondary+3"
-      ],
-      "location": {
-        "lat": 35.8256,
-        "lng": 10.6369
-      }
-    },
-    {
-      "id": 2,
-      "title": "Cozy Family House Near Medina",
-      "price": 200000,
-      "mainImage": "https://via.placeholder.com/600x400?text=House+2+Main",
-      "secondaryImages": [
-        "https://via.placeholder.com/300x200?text=House+2+Secondary+1",
-        "https://via.placeholder.com/300x200?text=House+2+Secondary+2",
-        "https://via.placeholder.com/300x200?text=House+2+Secondary+3"
-      ],
-      "location": {
-        "lat": 35.8285,
-        "lng": 10.6402
-      }
-    },
-    {
-      "id": 3,
-      "title": "Luxurious Villa with Pool",
-      "price": 450000,
-      "mainImage": "https://via.placeholder.com/600x400?text=House+3+Main",
-      "secondaryImages": [
-        "https://via.placeholder.com/300x200?text=House+3+Secondary+1",
-        "https://via.placeholder.com/300x200?text=House+3+Secondary+2",
-        "https://via.placeholder.com/300x200?text=House+3+Secondary+3"
-      ],
-      "location": {
-        "lat": 35.8290,
-        "lng": 10.6324
-      }
-    },
-    {
-      "id": 4,
-      "title": "Beachfront Apartment",
-      "price": 300000,
-      "mainImage": "https://via.placeholder.com/600x400?text=House+4+Main",
-      "secondaryImages": [
-        "https://via.placeholder.com/300x200?text=House+4+Secondary+1",
-        "https://via.placeholder.com/300x200?text=House+4+Secondary+2",
-        "https://via.placeholder.com/300x200?text=House+4+Secondary+3"
-      ],
-      "location": {
-        "lat": 35.8300,
-        "lng": 10.6350
-      }
-    },
-    {
-      "id": 60,
-      "title": "Charming Studio Apartment",
-      "price": 100000,
-      "mainImage": "https://via.placeholder.com/600x400?text=House+60+Main",
-      "secondaryImages": [
-        "https://via.placeholder.com/300x200?text=House+60+Secondary+1",
-        "https://via.placeholder.com/300x200?text=House+60+Secondary+2",
-        "https://via.placeholder.com/300x200?text=House+60+Secondary+3"
-      ],
-      "location": {
-        "lat": 35.8220,
-        "lng": 10.6400
-      }
+  {
+    "id": 1,
+    "title": "Modern Apartment in Downtown Sousse",
+    "country": "tunisia",
+    "city": "sousse",
+    "roomNumber": 2,
+    "price": 150000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+1+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+1+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+1+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+1+Secondary+3"
+    ],
+    "location": {
+      "lat": 35.8254,
+      "lng": 10.6389
     }
-  ]
+  },
+  {
+    "id": 2,
+    "title": "Cozy Family House Near Medina",
+    "country": "tunisia",
+    "city": "sousse",
+    "roomNumber": 3,
+    "price": 200000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+2+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+2+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+2+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+2+Secondary+3"
+    ],
+    "location": {
+      "lat": 35.8285,
+      "lng": 10.6402
+    }
+  },
+  {
+    "id": 3,
+    "title": "Luxurious Villa with Pool",
+    "country": "tunisia",
+    "city": "sousse",
+    "roomNumber": 5,
+    "price": 500000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+3+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+3+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+3+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+3+Secondary+3"
+    ],
+    "location": {
+      "lat": 35.8321,
+      "lng": 10.6420
+    }
+  },
+  {
+    "id": 4,
+    "title": "Charming House Near the Beach",
+    "country": "tunisia",
+    "city": "sousse",
+    "roomNumber": 3,
+    "price": 220000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+4+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+4+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+4+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+4+Secondary+3"
+    ],
+    "location": {
+      "lat": 35.8295,
+      "lng": 10.6415
+    }
+  },
+  {
+    "id": 5,
+    "title": "Spacious House with Garden",
+    "country": "tunisia",
+    "city": "sidi bouzid",
+    "roomNumber": 4,
+    "price": 300000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+5+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+5+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+5+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+5+Secondary+3"
+    ],
+    "location": {
+      "lat": 35.0383,
+      "lng": 9.4839
+    }
+  },
+  {
+    "id": 6,
+    "title": "Cozy Apartment in City Center",
+    "country": "tunisia",
+    "city": "sidi bouzid",
+    "roomNumber": 2,
+    "price": 140000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+6+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+6+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+6+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+6+Secondary+3"
+    ],
+    "location": {
+      "lat": 35.0338,
+      "lng": 9.4871
+    }
+  },
+  {
+    "id": 7,
+    "title": "Traditional House with Modern Touches",
+    "country": "tunisia",
+    "city": "sidi bouzid",
+    "roomNumber": 4,
+    "price": 250000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+7+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+7+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+7+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+7+Secondary+3"
+    ],
+    "location": {
+      "lat": 35.0369,
+      "lng": 9.4827
+    }
+  },
+  {
+    "id": 8,
+    "title": "Modern House Near Shopping Center",
+    "country": "tunisia",
+    "city": "sidi bouzid",
+    "roomNumber": 3,
+    "price": 190000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+8+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+8+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+8+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+8+Secondary+3"
+    ],
+    "location": {
+      "lat": 35.0327,
+      "lng": 9.4900
+    }
+  },
+  {
+    "id": 9,
+    "title": "Elegant Apartment Overlooking Park",
+    "country": "tunisia",
+    "city": "sousse",
+    "roomNumber": 2,
+    "price": 170000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+9+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+9+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+9+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+9+Secondary+3"
+    ],
+    "location": {
+      "lat": 35.8277,
+      "lng": 10.6378
+    }
+  },
+  {
+    "id": 10,
+    "title": "Affordable Apartment Near Market",
+    "country": "tunisia",
+    "city": "sousse",
+    "roomNumber": 2,
+    "price": 130000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+10+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+10+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+10+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+10+Secondary+3"
+    ],
+    "location": {
+      "lat": 35.8269,
+      "lng": 10.6399
+    }
+  },
+  {
+    "id": 11,
+    "title": "Luxury Penthouse with Ocean View",
+    "country": "tunisia",
+    "city": "sousse",
+    "roomNumber": 5,
+    "price": 600000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+11+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+11+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+11+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+11+Secondary+3"
+    ],
+    "location": {
+      "lat": 35.8290,
+      "lng": 10.6450
+    }
+  },
+  {
+    "id": 12,
+    "title": "Comfortable Family Home",
+    "country": "tunisia",
+    "city": "sidi bouzid",
+    "roomNumber": 4,
+    "price": 210000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+12+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+12+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+12+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+12+Secondary+3"
+    ],
+    "location": {
+      "lat": 35.0375,
+      "lng": 9.4855
+    }
+  }
+]

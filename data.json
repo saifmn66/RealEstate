@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Modern Apartment in Downtown Sousse",
+    "title": "Luxury Penthouse with Ocean View",
     "country": "tunisia",
     "city": "sousse",
-    "roomNumber": 2,
-    "price": 150000,
+    "roomNumber": 5,
+    "price": 600000,
     "mainImage": "https://via.placeholder.com/600x400?text=House+1+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+1+Secondary+1",
@@ -13,17 +13,17 @@
       "https://via.placeholder.com/300x200?text=House+1+Secondary+3"
     ],
     "location": {
-      "lat": 35.8254,
-      "lng": 10.6389
+      "lat": 35.8290,
+      "lng": 10.6450
     }
   },
   {
     "id": 2,
-    "title": "Cozy Family House Near Medina",
+    "title": "Charming Villa Near Medina",
     "country": "tunisia",
     "city": "sousse",
-    "roomNumber": 3,
-    "price": 200000,
+    "roomNumber": 4,
+    "price": 450000,
     "mainImage": "https://via.placeholder.com/600x400?text=House+2+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+2+Secondary+1",
@@ -31,17 +31,17 @@
       "https://via.placeholder.com/300x200?text=House+2+Secondary+3"
     ],
     "location": {
-      "lat": 35.8285,
-      "lng": 10.6402
+      "lat": 35.8236,
+      "lng": 10.6383
     }
   },
   {
     "id": 3,
-    "title": "Luxurious Villa with Pool",
+    "title": "Modern Apartment in Bou Jaafar",
     "country": "tunisia",
     "city": "sousse",
-    "roomNumber": 5,
-    "price": 500000,
+    "roomNumber": 3,
+    "price": 300000,
     "mainImage": "https://via.placeholder.com/600x400?text=House+3+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+3+Secondary+1",
@@ -49,17 +49,17 @@
       "https://via.placeholder.com/300x200?text=House+3+Secondary+3"
     ],
     "location": {
-      "lat": 35.8321,
-      "lng": 10.6420
+      "lat": 35.8260,
+      "lng": 10.6350
     }
   },
   {
     "id": 4,
-    "title": "Charming House Near the Beach",
+    "title": "Seafront Bungalow in Port El Kantaoui",
     "country": "tunisia",
     "city": "sousse",
-    "roomNumber": 3,
-    "price": 220000,
+    "roomNumber": 2,
+    "price": 750000,
     "mainImage": "https://via.placeholder.com/600x400?text=House+4+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+4+Secondary+1",
@@ -67,17 +67,17 @@
       "https://via.placeholder.com/300x200?text=House+4+Secondary+3"
     ],
     "location": {
-      "lat": 35.8295,
-      "lng": 10.6415
+      "lat": 35.8900,
+      "lng": 10.5930
     }
   },
   {
     "id": 5,
-    "title": "Spacious House with Garden",
+    "title": "Traditional House in Kalaa Kebira",
     "country": "tunisia",
-    "city": "sidi bouzid",
-    "roomNumber": 4,
-    "price": 300000,
+    "city": "sousse",
+    "roomNumber": 6,
+    "price": 350000,
     "mainImage": "https://via.placeholder.com/600x400?text=House+5+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+5+Secondary+1",
@@ -85,134 +85,441 @@
       "https://via.placeholder.com/300x200?text=House+5+Secondary+3"
     ],
     "location": {
-      "lat": 35.0383,
-      "lng": 9.4839
+      "lat": 35.8650,
+      "lng": 10.6400
     }
   },
-  {
-    "id": 6,
-    "title": "Cozy Apartment in City Center",
-    "country": "tunisia",
-    "city": "sidi bouzid",
-    "roomNumber": 2,
-    "price": 140000,
-    "mainImage": "https://via.placeholder.com/600x400?text=House+6+Main",
-    "secondaryImages": [
-      "https://via.placeholder.com/300x200?text=House+6+Secondary+1",
-      "https://via.placeholder.com/300x200?text=House+6+Secondary+2",
-      "https://via.placeholder.com/300x200?text=House+6+Secondary+3"
-    ],
-    "location": {
-      "lat": 35.0338,
-      "lng": 9.4871
-    }
-  },
-  {
-    "id": 7,
-    "title": "Traditional House with Modern Touches",
-    "country": "tunisia",
-    "city": "sidi bouzid",
-    "roomNumber": 4,
-    "price": 250000,
-    "mainImage": "https://via.placeholder.com/600x400?text=House+7+Main",
-    "secondaryImages": [
-      "https://via.placeholder.com/300x200?text=House+7+Secondary+1",
-      "https://via.placeholder.com/300x200?text=House+7+Secondary+2",
-      "https://via.placeholder.com/300x200?text=House+7+Secondary+3"
-    ],
-    "location": {
-      "lat": 35.0369,
-      "lng": 9.4827
-    }
-  },
-  {
-    "id": 8,
-    "title": "Modern House Near Shopping Center",
-    "country": "tunisia",
-    "city": "sidi bouzid",
-    "roomNumber": 3,
-    "price": 190000,
-    "mainImage": "https://via.placeholder.com/600x400?text=House+8+Main",
-    "secondaryImages": [
-      "https://via.placeholder.com/300x200?text=House+8+Secondary+1",
-      "https://via.placeholder.com/300x200?text=House+8+Secondary+2",
-      "https://via.placeholder.com/300x200?text=House+8+Secondary+3"
-    ],
-    "location": {
-      "lat": 35.0327,
-      "lng": 9.4900
-    }
-  },
-  {
-    "id": 9,
-    "title": "Elegant Apartment Overlooking Park",
-    "country": "tunisia",
-    "city": "sousse",
-    "roomNumber": 2,
-    "price": 170000,
-    "mainImage": "https://via.placeholder.com/600x400?text=House+9+Main",
-    "secondaryImages": [
-      "https://via.placeholder.com/300x200?text=House+9+Secondary+1",
-      "https://via.placeholder.com/300x200?text=House+9+Secondary+2",
-      "https://via.placeholder.com/300x200?text=House+9+Secondary+3"
-    ],
-    "location": {
-      "lat": 35.8277,
-      "lng": 10.6378
-    }
-  },
-  {
-    "id": 10,
-    "title": "Affordable Apartment Near Market",
-    "country": "tunisia",
-    "city": "sousse",
-    "roomNumber": 2,
-    "price": 130000,
-    "mainImage": "https://via.placeholder.com/600x400?text=House+10+Main",
-    "secondaryImages": [
-      "https://via.placeholder.com/300x200?text=House+10+Secondary+1",
-      "https://via.placeholder.com/300x200?text=House+10+Secondary+2",
-      "https://via.placeholder.com/300x200?text=House+10+Secondary+3"
-    ],
-    "location": {
-      "lat": 35.8269,
-      "lng": 10.6399
-    }
-  },
-  {
-    "id": 11,
-    "title": "Luxury Penthouse with Ocean View",
-    "country": "tunisia",
-    "city": "sousse",
-    "roomNumber": 5,
-    "price": 600000,
-    "mainImage": "https://via.placeholder.com/600x400?text=House+11+Main",
-    "secondaryImages": [
-      "https://via.placeholder.com/300x200?text=House+11+Secondary+1",
-      "https://via.placeholder.com/300x200?text=House+11+Secondary+2",
-      "https://via.placeholder.com/300x200?text=House+11+Secondary+3"
-    ],
-    "location": {
-      "lat": 35.8290,
-      "lng": 10.6450
-    }
-  },
-  {
-    "id": 12,
-    "title": "Comfortable Family Home",
-    "country": "tunisia",
-    "city": "sidi bouzid",
-    "roomNumber": 4,
-    "price": 210000,
-    "mainImage": "https://via.placeholder.com/600x400?text=House+12+Main",
-    "secondaryImages": [
-      "https://via.placeholder.com/300x200?text=House+12+Secondary+1",
-      "https://via.placeholder.com/300x200?text=House+12+Secondary+2",
-      "https://via.placeholder.com/300x200?text=House+12+Secondary+3"
-    ],
-    "location": {
-      "lat": 35.0375,
-      "lng": 9.4855
-    }
-  }
+  
+    {
+      "id": 6,
+      "title": "Luxury Apartment in La Marsa",
+      "country": "tunisia",
+      "city": "tunis",
+      "roomNumber": 4,
+      "price": 700000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+6+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+6+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+6+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+6+Secondary+3"
+      ],
+      "location": {
+        "lat": 36.8570,
+        "lng": 10.3240
+      }
+    },
+    {
+      "id": 7,
+      "title": "Modern Villa in Carthage",
+      "country": "tunisia",
+      "city": "tunis",
+      "roomNumber": 5,
+      "price": 850000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+7+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+7+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+7+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+7+Secondary+3"
+      ],
+      "location": {
+        "lat": 36.8625,
+        "lng": 10.3320
+      }
+    },
+    {
+      "id": 8,
+      "title": "Penthouse with Sea View in Gammarth",
+      "country": "tunisia",
+      "city": "tunis",
+      "roomNumber": 6,
+      "price": 900000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+8+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+8+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+8+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+8+Secondary+3"
+      ],
+      "location": {
+        "lat": 36.8925,
+        "lng": 10.3060
+      }
+    },
+    {
+      "id": 9,
+      "title": "Cozy Apartment in Tunis Center",
+      "country": "tunisia",
+      "city": "tunis",
+      "roomNumber": 3,
+      "price": 250000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+9+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+9+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+9+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+9+Secondary+3"
+      ],
+      "location": {
+        "lat": 36.7980,
+        "lng": 10.1780
+      }
+    },
+    {
+      "id": 10,
+      "title": "Traditional House in Medina of Tunis",
+      "country": "tunisia",
+      "city": "tunis",
+      "roomNumber": 4,
+      "price": 450000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+10+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+10+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+10+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+10+Secondary+3"
+      ],
+      "location": {
+        "lat": 36.8000,
+        "lng": 10.1830
+      }
+    },
+    {
+      "id": 11,
+      "title": "Stylish Loft in El Menzah",
+      "country": "tunisia",
+      "city": "tunis",
+      "roomNumber": 3,
+      "price": 300000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+11+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+11+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+11+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+11+Secondary+3"
+      ],
+      "location": {
+        "lat": 36.8585,
+        "lng": 10.1570
+      }
+    },
+    {
+      "id": 12,
+      "title": "Spacious House in Berges du Lac",
+      "country": "tunisia",
+      "city": "tunis",
+      "roomNumber": 7,
+      "price": 950000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+12+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+12+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+12+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+12+Secondary+3"
+      ],
+      "location": {
+        "lat": 36.8495,
+        "lng": 10.2200
+      }
+    },
+    {
+      "id": 13,
+      "title": "Spacious Villa in Sidi Bouzid",
+      "country": "tunisia",
+      "city": "sidi bouzid",
+      "roomNumber": 6,
+      "price": 350000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+13+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+13+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+13+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+13+Secondary+3"
+      ],
+      "location": {
+        "lat": 35.0300,
+        "lng": 9.4800
+      }
+    },
+    {
+      "id": 14,
+      "title": "Traditional House with Garden in Sidi Bouzid",
+      "country": "tunisia",
+      "city": "sidi bouzid",
+      "roomNumber": 4,
+      "price": 250000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+14+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+14+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+14+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+14+Secondary+3"
+      ],
+      "location": {
+        "lat": 35.0350,
+        "lng": 9.4850
+      }
+    },
+    {
+      "id": 15,
+      "title": "Modern Apartment in the Heart of Sidi Bouzid",
+      "country": "tunisia",
+      "city": "sidi bouzid",
+      "roomNumber": 3,
+      "price": 180000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+15+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+15+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+15+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+15+Secondary+3"
+      ],
+      "location": {
+        "lat": 35.0400,
+        "lng": 9.4900
+      }
+    },
+    {
+      "id": 16,
+      "title": "Large Farmhouse with Land in Sidi Bouzid",
+      "country": "tunisia",
+      "city": "sidi bouzid",
+      "roomNumber": 7,
+      "price": 450000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+16+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+16+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+16+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+16+Secondary+3"
+      ],
+      "location": {
+        "lat": 35.0500,
+        "lng": 9.4950
+      }
+    },
+    {
+      "id": 17,
+      "title": "Charming Cottage with Views in Sidi Bouzid",
+      "country": "tunisia",
+      "city": "sidi bouzid",
+      "roomNumber": 3,
+      "price": 220000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+17+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+17+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+17+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+17+Secondary+3"
+      ],
+      "location": {
+        "lat": 35.0450,
+        "lng": 9.4700
+      }
+    },
+    {
+      "id": 18,
+      "title": "Luxury Apartment with Eiffel Tower View",
+      "country": "france",
+      "city": "paris",
+      "roomNumber": 4,
+      "price": 2000000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+18+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+18+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+18+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+18+Secondary+3"
+      ],
+      "location": {
+        "lat": 48.8584,
+        "lng": 2.2945
+      }
+    },
+    {
+      "id": 19,
+      "title": "Modern Loft in Le Marais",
+      "country": "france",
+      "city": "paris",
+      "roomNumber": 3,
+      "price": 1200000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+19+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+19+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+19+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+19+Secondary+3"
+      ],
+      "location": {
+        "lat": 48.8590,
+        "lng": 2.3625
+      }
+    },
+    {
+      "id": 20,
+      "title": "Elegant Apartment in Saint-Germain-des-Prés",
+      "country": "france",
+      "city": "paris",
+      "roomNumber": 5,
+      "price": 1500000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+20+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+20+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+20+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+20+Secondary+3"
+      ],
+      "location": {
+        "lat": 48.8566,
+        "lng": 2.3333
+      }
+    },
+    {
+      "id": 21,
+      "title": "Charming Studio Near Montmartre",
+      "country": "france",
+      "city": "paris",
+      "roomNumber": 1,
+      "price": 350000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+21+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+21+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+21+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+21+Secondary+3"
+      ],
+      "location": {
+        "lat": 48.8840,
+        "lng": 2.3430
+      }
+    },
+    {
+      "id": 22,
+      "title": "Penthouse with Private Terrace in Champs-Élysées",
+      "country": "france",
+      "city": "paris",
+      "roomNumber": 6,
+      "price": 3000000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+22+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+22+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+22+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+22+Secondary+3"
+      ],
+      "location": {
+        "lat": 48.8708,
+        "lng": 2.3061
+      }
+    },
+    {
+      "id": 23,
+      "title": "Modern Apartment in Downtown Sfax",
+      "country": "tunisia",
+      "city": "sfax",
+      "roomNumber": 3,
+      "price": 200000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+23+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+23+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+23+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+23+Secondary+3"
+      ],
+      "location": {
+        "lat": 34.7400,
+        "lng": 10.7600
+      }
+    },
+    {
+      "id": 24,
+      "title": "Charming Villa in Sfax Suburbs",
+      "country": "tunisia",
+      "city": "sfax",
+      "roomNumber": 5,
+      "price": 350000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+24+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+24+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+24+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+24+Secondary+3"
+      ],
+      "location": {
+        "lat": 34.7350,
+        "lng": 10.7550
+      }
+    },
+    {
+      "id": 25,
+      "title": "Luxurious Apartment with Sea View in Sfax",
+      "country": "tunisia",
+      "city": "sfax",
+      "roomNumber": 4,
+      "price": 500000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+25+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+25+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+25+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+25+Secondary+3"
+      ],
+      "location": {
+        "lat": 34.7450,
+        "lng": 10.7700
+      }
+    },
+    {
+      "id": 26,
+      "title": "Spacious Family House in Sfax",
+      "country": "tunisia",
+      "city": "sfax",
+      "roomNumber": 6,
+      "price": 450000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+26+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+26+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+26+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+26+Secondary+3"
+      ],
+      "location": {
+        "lat": 34.7500,
+        "lng": 10.7750
+      }
+    },
+    {
+      "id": 27,
+      "title": "Elegant Villa with Garden in Sfax",
+      "country": "tunisia",
+      "city": "sfax",
+      "roomNumber": 7,
+      "price": 600000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+27+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+27+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+27+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+27+Secondary+3"
+      ],
+      "location": {
+        "lat": 34.7550,
+        "lng": 10.7800
+      }
+    },
+    {
+      "id": 28,
+      "title": "Penthouse with City View in Sfax",
+      "country": "tunisia",
+      "city": "sfax",
+      "roomNumber": 4,
+      "price": 700000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+28+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+28+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+28+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+28+Secondary+3"
+      ],
+      "location": {
+        "lat": 34.7600,
+        "lng": 10.7850
+      }
+    },
+    {
+      "id": 29,
+      "title": "Cozy Apartment Near the Sfax Medina",
+      "country": "tunisia",
+      "city": "sfax",
+      "roomNumber": 2,
+      "price": 150000,
+      "mainImage": "https://via.placeholder.com/600x400?text=House+29+Main",
+      "secondaryImages": [
+        "https://via.placeholder.com/300x200?text=House+29+Secondary+1",
+        "https://via.placeholder.com/300x200?text=House+29+Secondary+2",
+        "https://via.placeholder.com/300x200?text=House+29+Secondary+3"
+      ],
+      "location": {
+        "lat": 34.7300,
+        "lng": 10.7500
+      }
+    }  
 ]

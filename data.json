@@ -13,8 +13,8 @@
       "https://via.placeholder.com/300x200?text=House+1+Secondary+3"
     ],
     "location": {
-      "lat": 35.9290,
-      "lng": 10.8450
+      "lat": 35.8190,
+      "lng": 10.6150
     }
   },
   {
@@ -31,8 +31,8 @@
       "https://via.placeholder.com/300x200?text=House+2+Secondary+3"
     ],
     "location": {
-      "lat": 35.1236,
-      "lng": 10.2383
+      "lat": 35.8236,
+      "lng": 10.6283
     }
   },
   {
@@ -49,8 +49,8 @@
       "https://via.placeholder.com/300x200?text=House+3+Secondary+3"
     ],
     "location": {
-      "lat": 35.5260,
-      "lng": 10.5350
+      "lat": 35.8960,
+      "lng": 10.6950
     }
   },
   {
@@ -67,8 +67,8 @@
       "https://via.placeholder.com/300x200?text=House+4+Secondary+3"
     ],
     "location": {
-      "lat": 35.3900,
-      "lng": 10.3930
+      "lat": 35.8700,
+      "lng": 10.5730
     }
   },
   {
@@ -85,8 +85,8 @@
       "https://via.placeholder.com/300x200?text=House+5+Secondary+3"
     ],
     "location": {
-      "lat": 35.7650,
-      "lng": 10.7400
+      "lat": 35.8550,
+      "lng": 10.6400
     }
   },
   
@@ -104,8 +104,8 @@
         "https://via.placeholder.com/300x200?text=House+6+Secondary+3"
       ],
       "location": {
-        "lat": 36.1570,
-        "lng": 10.1240
+        "lat": 36.8570,
+        "lng": 10.3240
       }
     },
     {
@@ -122,8 +122,8 @@
         "https://via.placeholder.com/300x200?text=House+7+Secondary+3"
       ],
       "location": {
-        "lat": 36.2625,
-        "lng": 10.2320
+        "lat": 36.8625,
+        "lng": 10.3320
       }
     },
     {
@@ -141,7 +141,7 @@
       ],
       "location": {
         "lat": 36.8925,
-        "lng": 10.8060
+        "lng": 10.3060
       }
     },
     {
@@ -159,7 +159,7 @@
       ],
       "location": {
         "lat": 36.7980,
-        "lng": 10.7780
+        "lng": 10.1780
       }
     },
     {
@@ -176,8 +176,8 @@
         "https://via.placeholder.com/300x200?text=House+10+Secondary+3"
       ],
       "location": {
-        "lat": 36.5000,
-        "lng": 10.7830
+        "lat": 36.8000,
+        "lng": 10.1830
       }
     },
     {
@@ -213,7 +213,7 @@
       ],
       "location": {
         "lat": 36.8495,
-        "lng": 10.9200
+        "lng": 10.2200
       }
     },
     {
@@ -231,7 +231,7 @@
       ],
       "location": {
         "lat": 35.0300,
-        "lng": 9.1800
+        "lng": 9.4800
       }
     },
     {
@@ -248,8 +248,8 @@
         "https://via.placeholder.com/300x200?text=House+14+Secondary+3"
       ],
       "location": {
-        "lat": 35.2350,
-        "lng": 9.2850
+        "lat": 35.0350,
+        "lng": 9.4850
       }
     },
     {
@@ -284,7 +284,7 @@
         "https://via.placeholder.com/300x200?text=House+16+Secondary+3"
       ],
       "location": {
-        "lat": 35.7500,
+        "lat": 35.0500,
         "lng": 9.4950
       }
     },
@@ -302,8 +302,8 @@
         "https://via.placeholder.com/300x200?text=House+17+Secondary+3"
       ],
       "location": {
-        "lat": 35.5450,
-        "lng": 9.9700
+        "lat": 35.0450,
+        "lng": 9.4700
       }
     },
     {
@@ -397,129 +397,129 @@
       }
     },
     {
-      "id": 23,
-      "title": "Modern Apartment in Downtown Sfax",
-      "country": "tunisia",
-      "city": "sfax",
-      "roomNumber": 3,
-      "price": 200000,
-      "mainImage": "https://via.placeholder.com/600x400?text=House+23+Main",
-      "secondaryImages": [
-        "https://via.placeholder.com/300x200?text=House+23+Secondary+1",
-        "https://via.placeholder.com/300x200?text=House+23+Secondary+2",
-        "https://via.placeholder.com/300x200?text=House+23+Secondary+3"
-      ],
-      "location": {
-        "lat": 34.7400,
-        "lng": 10.7600
-      }
-    },
-    {
-      "id": 24,
-      "title": "Charming Villa in Sfax Suburbs",
-      "country": "tunisia",
-      "city": "sfax",
-      "roomNumber": 5,
-      "price": 350000,
-      "mainImage": "https://via.placeholder.com/600x400?text=House+24+Main",
-      "secondaryImages": [
-        "https://via.placeholder.com/300x200?text=House+24+Secondary+1",
-        "https://via.placeholder.com/300x200?text=House+24+Secondary+2",
-        "https://via.placeholder.com/300x200?text=House+24+Secondary+3"
-      ],
-      "location": {
-        "lat": 34.7350,
-        "lng": 10.7550
-      }
-    },
-    {
-      "id": 25,
-      "title": "Luxurious Apartment with Sea View in Sfax",
-      "country": "tunisia",
-      "city": "sfax",
-      "roomNumber": 4,
-      "price": 500000,
-      "mainImage": "https://via.placeholder.com/600x400?text=House+25+Main",
-      "secondaryImages": [
-        "https://via.placeholder.com/300x200?text=House+25+Secondary+1",
-        "https://via.placeholder.com/300x200?text=House+25+Secondary+2",
-        "https://via.placeholder.com/300x200?text=House+25+Secondary+3"
-      ],
-      "location": {
-        "lat": 34.7450,
-        "lng": 10.7700
-      }
-    },
-    {
-      "id": 26,
-      "title": "Spacious Family House in Sfax",
-      "country": "tunisia",
-      "city": "sfax",
-      "roomNumber": 6,
-      "price": 450000,
-      "mainImage": "https://via.placeholder.com/600x400?text=House+26+Main",
-      "secondaryImages": [
-        "https://via.placeholder.com/300x200?text=House+26+Secondary+1",
-        "https://via.placeholder.com/300x200?text=House+26+Secondary+2",
-        "https://via.placeholder.com/300x200?text=House+26+Secondary+3"
-      ],
-      "location": {
-        "lat": 34.7500,
-        "lng": 10.7750
-      }
-    },
-    {
-      "id": 27,
-      "title": "Elegant Villa with Garden in Sfax",
-      "country": "tunisia",
-      "city": "sfax",
-      "roomNumber": 7,
-      "price": 600000,
-      "mainImage": "https://via.placeholder.com/600x400?text=House+27+Main",
-      "secondaryImages": [
-        "https://via.placeholder.com/300x200?text=House+27+Secondary+1",
-        "https://via.placeholder.com/300x200?text=House+27+Secondary+2",
-        "https://via.placeholder.com/300x200?text=House+27+Secondary+3"
-      ],
-      "location": {
-        "lat": 34.7550,
-        "lng": 10.7800
-      }
-    },
-    {
-      "id": 28,
-      "title": "Penthouse with City View in Sfax",
-      "country": "tunisia",
-      "city": "sfax",
-      "roomNumber": 4,
-      "price": 700000,
-      "mainImage": "https://via.placeholder.com/600x400?text=House+28+Main",
-      "secondaryImages": [
-        "https://via.placeholder.com/300x200?text=House+28+Secondary+1",
-        "https://via.placeholder.com/300x200?text=House+28+Secondary+2",
-        "https://via.placeholder.com/300x200?text=House+28+Secondary+3"
-      ],
-      "location": {
-        "lat": 34.7600,
-        "lng": 10.7850
-      }
-    },
-    {
-      "id": 29,
-      "title": "Cozy Apartment Near the Sfax Medina",
-      "country": "tunisia",
-      "city": "sfax",
-      "roomNumber": 2,
-      "price": 150000,
-      "mainImage": "https://via.placeholder.com/600x400?text=House+29+Main",
-      "secondaryImages": [
-        "https://via.placeholder.com/300x200?text=House+29+Secondary+1",
-        "https://via.placeholder.com/300x200?text=House+29+Secondary+2",
-        "https://via.placeholder.com/300x200?text=House+29+Secondary+3"
-      ],
-      "location": {
-        "lat": 34.7300,
-        "lng": 10.7500
-      }
-    }  
+    "id": 23,
+    "title": "Modern Apartment in Downtown Sfax",
+    "country": "tunisia",
+    "city": "sfax",
+    "roomNumber": 3,
+    "price": 200000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+23+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+23+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+23+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+23+Secondary+3"
+    ],
+    "location": {
+      "lat": 34.7400,
+      "lng": 10.7600
+    }
+  },
+  {
+    "id": 24,
+    "title": "Charming Villa in Sfax Suburbs",
+    "country": "tunisia",
+    "city": "sfax",
+    "roomNumber": 5,
+    "price": 350000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+24+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+24+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+24+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+24+Secondary+3"
+    ],
+    "location": {
+      "lat": 34.7350,
+      "lng": 10.7550
+    }
+  },
+  {
+    "id": 25,
+    "title": "Luxurious Apartment with Sea View in Sfax",
+    "country": "tunisia",
+    "city": "sfax",
+    "roomNumber": 4,
+    "price": 500000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+25+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+25+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+25+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+25+Secondary+3"
+    ],
+    "location": {
+      "lat": 34.7450,
+      "lng": 10.7700
+    }
+  },
+  {
+    "id": 26,
+    "title": "Spacious Family House in Sfax",
+    "country": "tunisia",
+    "city": "sfax",
+    "roomNumber": 6,
+    "price": 450000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+26+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+26+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+26+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+26+Secondary+3"
+    ],
+    "location": {
+      "lat": 34.7500,
+      "lng": 10.7750
+    }
+  },
+  {
+    "id": 27,
+    "title": "Elegant Villa with Garden in Sfax",
+    "country": "tunisia",
+    "city": "sfax",
+    "roomNumber": 7,
+    "price": 600000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+27+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+27+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+27+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+27+Secondary+3"
+    ],
+    "location": {
+      "lat": 34.7550,
+      "lng": 10.7800
+    }
+  },
+  {
+    "id": 28,
+    "title": "Penthouse with City View in Sfax",
+    "country": "tunisia",
+    "city": "sfax",
+    "roomNumber": 4,
+    "price": 700000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+28+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+28+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+28+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+28+Secondary+3"
+    ],
+    "location": {
+      "lat": 34.7600,
+      "lng": 10.7850
+    }
+  },
+  {
+    "id": 29,
+    "title": "Cozy Apartment Near the Sfax Medina",
+    "country": "tunisia",
+    "city": "sfax",
+    "roomNumber": 2,
+    "price": 150000,
+    "mainImage": "https://via.placeholder.com/600x400?text=House+29+Main",
+    "secondaryImages": [
+      "https://via.placeholder.com/300x200?text=House+29+Secondary+1",
+      "https://via.placeholder.com/300x200?text=House+29+Secondary+2",
+      "https://via.placeholder.com/300x200?text=House+29+Secondary+3"
+    ],
+    "location": {
+      "lat": 34.7300,
+      "lng": 10.7500
+    }
+  }
 ]

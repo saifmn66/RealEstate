@@ -13,8 +13,8 @@
       "https://via.placeholder.com/300x200?text=House+1+Secondary+3"
     ],
     "location": {
-      "lat": 35.8290,
-      "lng": 10.6450
+      "lat": 35.9290,
+      "lng": 10.8450
     }
   },
   {
@@ -31,8 +31,8 @@
       "https://via.placeholder.com/300x200?text=House+2+Secondary+3"
     ],
     "location": {
-      "lat": 35.8236,
-      "lng": 10.6383
+      "lat": 35.1236,
+      "lng": 10.2383
     }
   },
   {
@@ -49,8 +49,8 @@
       "https://via.placeholder.com/300x200?text=House+3+Secondary+3"
     ],
     "location": {
-      "lat": 35.8260,
-      "lng": 10.6350
+      "lat": 35.5260,
+      "lng": 10.5350
     }
   },
   {
@@ -67,8 +67,8 @@
       "https://via.placeholder.com/300x200?text=House+4+Secondary+3"
     ],
     "location": {
-      "lat": 35.8900,
-      "lng": 10.5930
+      "lat": 35.3900,
+      "lng": 10.3930
     }
   },
   {
@@ -85,8 +85,8 @@
       "https://via.placeholder.com/300x200?text=House+5+Secondary+3"
     ],
     "location": {
-      "lat": 35.8650,
-      "lng": 10.6400
+      "lat": 35.7650,
+      "lng": 10.7400
     }
   },
   
@@ -104,8 +104,8 @@
         "https://via.placeholder.com/300x200?text=House+6+Secondary+3"
       ],
       "location": {
-        "lat": 36.8570,
-        "lng": 10.3240
+        "lat": 36.1570,
+        "lng": 10.1240
       }
     },
     {
@@ -122,8 +122,8 @@
         "https://via.placeholder.com/300x200?text=House+7+Secondary+3"
       ],
       "location": {
-        "lat": 36.8625,
-        "lng": 10.3320
+        "lat": 36.2625,
+        "lng": 10.2320
       }
     },
     {
@@ -141,7 +141,7 @@
       ],
       "location": {
         "lat": 36.8925,
-        "lng": 10.3060
+        "lng": 10.8060
       }
     },
     {
@@ -159,7 +159,7 @@
       ],
       "location": {
         "lat": 36.7980,
-        "lng": 10.1780
+        "lng": 10.7780
       }
     },
     {
@@ -176,8 +176,8 @@
         "https://via.placeholder.com/300x200?text=House+10+Secondary+3"
       ],
       "location": {
-        "lat": 36.8000,
-        "lng": 10.1830
+        "lat": 36.5000,
+        "lng": 10.7830
       }
     },
     {
@@ -213,7 +213,7 @@
       ],
       "location": {
         "lat": 36.8495,
-        "lng": 10.2200
+        "lng": 10.9200
       }
     },
     {
@@ -231,7 +231,7 @@
       ],
       "location": {
         "lat": 35.0300,
-        "lng": 9.4800
+        "lng": 9.1800
       }
     },
     {
@@ -248,8 +248,8 @@
         "https://via.placeholder.com/300x200?text=House+14+Secondary+3"
       ],
       "location": {
-        "lat": 35.0350,
-        "lng": 9.4850
+        "lat": 35.2350,
+        "lng": 9.2850
       }
     },
     {
@@ -284,7 +284,7 @@
         "https://via.placeholder.com/300x200?text=House+16+Secondary+3"
       ],
       "location": {
-        "lat": 35.0500,
+        "lat": 35.7500,
         "lng": 9.4950
       }
     },
@@ -302,8 +302,8 @@
         "https://via.placeholder.com/300x200?text=House+17+Secondary+3"
       ],
       "location": {
-        "lat": 35.0450,
-        "lng": 9.4700
+        "lat": 35.5450,
+        "lng": 9.9700
       }
     },
     {

@@ -6,6 +6,11 @@
     "city": "sousse",
     "roomNumber": 5,
     "price": 210,
+    "description": "A traditional house offering a glimpse of the local culture, with spacious rooms and a beautiful garden.",
+    "owner": {
+      "name": "Aymen Ben Jemia",
+      "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+    },
     "mainImage": "https://a0.muscache.com/im/pictures/miso/Hosting-53214188/original/2d3fc2ad-012e-4bd5-ba60-45883f640eff.jpeg?im_w=1200&im_format=avif",
     "secondaryImages": [
       "https://a0.muscache.com/im/pictures/miso/Hosting-53214188/original/dc211e4c-9840-4166-a1a5-460c905af4cb.jpeg?im_w=240&im_format=avif",
@@ -24,6 +29,11 @@
     "city": "sousse",
     "roomNumber": 1,
     "price": 160,
+    "description": "A traditional house offering a glimpse of the local culture, with spacious rooms and a beautiful garden.",
+    "owner": {
+      "name": "amira Ben lmia",
+      "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+    },
     "mainImage": "https://a0.muscache.com/im/pictures/a5d8a211-e0f8-446f-b002-d421e5cc52e2.jpg?im_w=1200&im_format=avif",
     "secondaryImages": [
       "https://a0.muscache.com/im/pictures/326fd69d-6271-4509-aae2-93c2ab1d422b.jpg?im_w=720&im_format=avif",
@@ -42,6 +52,11 @@
     "city": "sousse",
     "roomNumber": 1,
     "price": 140,
+    "description": "A nice house offering a glimpse of the local culture, with spacious rooms and a beautiful garden.",
+    "owner": {
+      "name": "ahmed Ben ahmed",
+      "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+    },
     "mainImage": "https://a0.muscache.com/im/pictures/hosting/Hosting-1000103798537447390/original/2a6ada9c-2b19-4203-a496-eb0a35724542.jpeg?im_w=1200&im_format=avif",
     "secondaryImages": [
       "https://a0.muscache.com/im/pictures/hosting/Hosting-1000103798537447390/original/5fe7571d-2a05-4d6b-bf50-3eae2f7e671d.jpeg?im_w=720&im_format=avif",
@@ -60,6 +75,11 @@
     "city": "sousse",
     "roomNumber": 1,
     "price": 180,
+    "description": "A Apartement offering a glimpse of the local culture, with spacious rooms and a beautiful garden.",
+    "owner": {
+      "name": "Aymen maloli",
+      "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+    },
     "mainImage": "https://a0.muscache.com/im/pictures/airflow/Hosting-22749265/original/86d44269-a4e9-405e-a284-0fe2b50f734b.jpg?im_w=1200&im_format=avif",
     "secondaryImages": [
       "https://a0.muscache.com/im/pictures/airflow/Hosting-22749265/original/8acfd2ad-ee98-4c22-a80e-ca785c1d93bf.jpg?im_w=720&im_format=avif",
@@ -78,6 +98,11 @@
     "city": "sousse",
     "roomNumber": 6,
     "price": 350,
+    "description": "A Traditional House in Kalaa Kebira offering a glimpse of the local culture, with spacious rooms and a beautiful garden.",
+    "owner": {
+      "name": "latifa maloli",
+      "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+    },
     "mainImage": "https://via.placeholder.com/600x400?text=House+5+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+5+Secondary+1",
@@ -97,6 +122,11 @@
       "city": "tunis",
       "roomNumber": 4,
       "price": 310,
+      "description": "A House in Kalaa Kebira offering a glimpse of the local culture, with spacious rooms and a beautiful garden.",
+      "owner": {
+        "name": "lamia maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/airflow/Hosting-44016226/original/da411517-1090-475a-9e9b-75f2d8e94948.jpg?im_w=720&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/airflow/Hosting-44016226/original/e16b9d70-edcd-479a-8939-2bc7360713a3.jpg?im_w=720&im_format=avif",
@@ -115,6 +145,11 @@
       "city": "tunis",
       "roomNumber": 2,
       "price": 190,
+      "description": "A  House in Kalaa Kebira offering a glimpse of the local culture, with spacious rooms and a beautiful garden.",
+      "owner": {
+        "name": "mourad maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/c9ad029d-8e90-4b2a-a05c-9946e5a70b5c.jpg?im_w=1200&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/miso/Hosting-38839541/original/06abf586-885e-467f-8fa5-5426f5b6dfa6.jpeg?im_w=1200&im_format=avif",
@@ -133,6 +168,10 @@
       "city": "tunis",
       "roomNumber": 1,
       "price": 230,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/airflow/Hosting-832116447948153616/original/753aaed4-0cad-4fda-b669-c6efe2061825.jpg?im_w=1200&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/airflow/Hosting-832116447948153616/original/dc83a936-cd27-452c-8534-9fb96ae8cd4e.jpg?im_w=720&im_format=avif",
@@ -151,6 +190,10 @@
       "city": "tunis",
       "roomNumber": 1,
       "price": 260,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/miso/Hosting-814329822625230426/original/a0d30db7-4e3a-43f4-b1b4-f981ae386471.jpeg?im_w=1200&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/miso/Hosting-814329822625230426/original/95cf27af-5baf-4baf-9c0a-d4784117698e.jpeg?im_w=720&im_format=avif",
@@ -169,6 +212,10 @@
       "city": "tunis",
       "roomNumber": 2,
       "price": 290,
+      "owner": {
+        "name": "souhail maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/miso/Hosting-572349082346217904/original/068dfcae-7c80-4a4b-99ad-7deda7080bbe.jpeg?im_w=1200&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/miso/Hosting-572349082346217904/original/4d2c35e3-06ab-4a5e-96a2-4c389e7ae2a9.jpeg?im_w=720&im_format=avif",
@@ -186,7 +233,11 @@
       "country": "tunisia",
       "city": "tunis",
       "roomNumber": 1,
-      "price": 180,
+      "price": 180,      
+      "owner": {
+        "name": "latifa hawedi",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/miso/Hosting-651497507012443462/original/858442bd-3cea-479f-9fc7-92f951e63a35.jpeg?im_w=1200&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/miso/Hosting-651497507012443462/original/ea9da171-7a3a-43c9-8e82-66a83a9d3a07.jpeg?im_w=720&im_format=avif",
@@ -205,6 +256,10 @@
       "city": "tunis",
       "roomNumber": 1,
       "price": 140,
+      "owner": {
+        "name": "latifa ahmed",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/miso/Hosting-626685058717151493/original/78561633-a0b8-4799-a122-14a5dce2aee1.jpeg?im_w=1200&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/miso/Hosting-626685058717151493/original/2720cf5e-ec2a-473b-a1a4-8929cfe74374.jpeg?im_w=720&im_format=avif",
@@ -223,6 +278,10 @@
       "city": "sidi bouzid",
       "roomNumber": 4,
       "price": 400,
+      "owner": {
+        "name": "lamia maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/hosting/Hosting-15492361/original/8784125a-c0dc-4019-83de-2acab61ad0e1.jpeg?im_w=720&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/hosting/Hosting-15492361/original/dda971ba-cfda-4da1-af45-b9650b06dc9a.jpeg?im_w=1200&im_format=avif",
@@ -241,6 +300,10 @@
       "city": "sidi bouzid",
       "roomNumber": 4,
       "price": 360,
+      "owner": {
+        "name": "latifa hawechi",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/hosting/Hosting-1299034153822252014/original/791977ce-204c-430a-a1ca-ce6cc7c80efd.jpeg?im_w=720&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/hosting/Hosting-1299034153822252014/original/d084207d-944a-49c4-9157-89e1b035869e.jpeg?im_w=720&im_format=avif",
@@ -259,6 +322,10 @@
       "city": "sidi bouzid",
       "roomNumber": 3,
       "price": 340,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/hosting/Hosting-1133285523685987240/original/9ff2905a-41c5-4d6d-bbfc-37f2ea770d27.jpeg?im_w=1200&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/hosting/Hosting-1133285523685987240/original/019870f6-85cf-4bf8-905f-3d6e74ac528d.jpeg?im_w=1200&im_format=avif",
@@ -277,6 +344,10 @@
       "city": "sidi bouzid",
       "roomNumber": 7,
       "price": 200,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/miso/Hosting-722922109419252805/original/450c87e3-f3da-437b-ae9d-29ae0bc8378d.jpeg?im_w=1200&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/miso/Hosting-722922109419252805/original/925f309c-b3e2-43c7-9c5a-b571a8ebff51.jpeg?im_w=720&im_format=avif",
@@ -295,6 +366,10 @@
       "city": "sidi bouzid",
       "roomNumber": 3,
       "price": 420,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTU2OTU2NjIzNDg5Njk4NjU3/original/ccb16a1a-f805-445b-819d-a5c63b07ce47.png?im_w=1200&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/c0780fa7-df37-4b32-9f2b-825d45152b18.jpg?im_w=720&im_format=avif",
@@ -313,6 +388,10 @@
       "city": "Metline",
       "roomNumber": 4,
       "price": 430,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/miso/Hosting-1176850782709402363/original/7d233463-2279-463e-be5c-dcc1979a2bd2.jpeg?im_w=1200&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE3Njg1MDc4MjcwOTQwMjM2Mw%3D%3D/original/e789ac17-2ed6-4300-9dab-35d47a5917b2.jpeg?im_w=1200&im_format=avif",
@@ -331,6 +410,10 @@
       "city": "Montone",
       "roomNumber": 3,
       "price": 430,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/dce8246a-2e1e-4f68-9666-3078005aff30.jpg?im_w=1200&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/miso/Hosting-867295996458971657/original/78a42c6b-ef52-4c5d-a4c3-edc98d7cacdd.jpeg?im_w=720&im_format=avif",
@@ -349,6 +432,10 @@
       "city": "Montone",
       "roomNumber": 2,
       "price": 240,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/miso/Hosting-1163657223880768416/original/57164649-4894-4d50-8140-287c486633fa.jpeg?im_w=1200&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/miso/Hosting-1163657223880768416/original/1fc58cf5-c86f-448d-8e1d-f0ca5d7fb40e.jpeg?im_w=1200&im_format=avif",
@@ -367,6 +454,10 @@
       "city": "Montone",
       "roomNumber": 1,
       "price": 460,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/ml/photo_enhancement/pictures/hosting/Hosting-1046565311715271997/original/46435a5a-8bb4-4980-b1bf-dca64524a2d3.jpeg?im_w=720&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTA0NjU2NTMxMTcxNTI3MTk5Nw%3D%3D/original/423d8acd-11c4-4c33-98c3-5bde5bbfbf5d.jpeg?im_w=720&im_format=avif",
@@ -385,6 +476,10 @@
       "city": "Montone",
       "roomNumber": 9,
       "price": 700,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
       "mainImage": "https://a0.muscache.com/im/pictures/bf7e246e-f2b8-4822-8810-4dd786495ada.jpg?im_w=720&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/9812c109-e645-4114-9264-ab729f532973.jpg?im_w=720&im_format=avif",
@@ -403,6 +498,10 @@
     "city": "sfax",
     "roomNumber": 3,
     "price": 200,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
     "mainImage": "https://via.placeholder.com/600x400?text=House+23+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+23+Secondary+1",
@@ -421,6 +520,10 @@
     "city": "sfax",
     "roomNumber": 5,
     "price": 350,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
     "mainImage": "https://via.placeholder.com/600x400?text=House+24+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+24+Secondary+1",
@@ -439,6 +542,10 @@
     "city": "sfax",
     "roomNumber": 4,
     "price": 500,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
     "mainImage": "https://via.placeholder.com/600x400?text=House+25+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+25+Secondary+1",
@@ -457,6 +564,10 @@
     "city": "sfax",
     "roomNumber": 6,
     "price": 450,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
     "mainImage": "https://via.placeholder.com/600x400?text=House+26+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+26+Secondary+1",
@@ -475,6 +586,10 @@
     "city": "sfax",
     "roomNumber": 7,
     "price": 600,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
     "mainImage": "https://via.placeholder.com/600x400?text=House+27+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+27+Secondary+1",
@@ -493,6 +608,10 @@
     "city": "sfax",
     "roomNumber": 4,
     "price": 700,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
     "mainImage": "https://via.placeholder.com/600x400?text=House+28+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+28+Secondary+1",
@@ -511,6 +630,10 @@
     "city": "sfax",
     "roomNumber": 2,
     "price": 150,
+      "owner": {
+        "name": "latifa maloli",
+        "photo": "https://via.placeholder.com/150?text=Aymen+Ben+Jemia"
+      },
     "mainImage": "https://via.placeholder.com/600x400?text=House+29+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+29+Secondary+1",

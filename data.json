@@ -5,7 +5,7 @@
     "country": "tunisia",
     "city": "sousse",
     "roomNumber": 5,
-    "price": 600000,
+    "price": 210,
     "mainImage": "https://a0.muscache.com/im/pictures/miso/Hosting-53214188/original/2d3fc2ad-012e-4bd5-ba60-45883f640eff.jpeg?im_w=1200&im_format=avif",
     "secondaryImages": [
       "https://a0.muscache.com/im/pictures/miso/Hosting-53214188/original/dc211e4c-9840-4166-a1a5-460c905af4cb.jpeg?im_w=240&im_format=avif",
@@ -77,7 +77,7 @@
     "country": "tunisia",
     "city": "sousse",
     "roomNumber": 6,
-    "price": 350000,
+    "price": 350,
     "mainImage": "https://via.placeholder.com/600x400?text=House+5+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+5+Secondary+1",
@@ -96,7 +96,7 @@
       "country": "tunisia",
       "city": "tunis",
       "roomNumber": 4,
-      "price": 700000,
+      "price": 310,
       "mainImage": "https://a0.muscache.com/im/pictures/airflow/Hosting-44016226/original/da411517-1090-475a-9e9b-75f2d8e94948.jpg?im_w=720&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/airflow/Hosting-44016226/original/e16b9d70-edcd-479a-8939-2bc7360713a3.jpg?im_w=720&im_format=avif",
@@ -384,7 +384,7 @@
       "country": "france",
       "city": "Montone",
       "roomNumber": 9,
-      "price": 70000,
+      "price": 700,
       "mainImage": "https://a0.muscache.com/im/pictures/bf7e246e-f2b8-4822-8810-4dd786495ada.jpg?im_w=720&im_format=avif",
       "secondaryImages": [
         "https://a0.muscache.com/im/pictures/9812c109-e645-4114-9264-ab729f532973.jpg?im_w=720&im_format=avif",
@@ -402,7 +402,7 @@
     "country": "tunisia",
     "city": "sfax",
     "roomNumber": 3,
-    "price": 200000,
+    "price": 200,
     "mainImage": "https://via.placeholder.com/600x400?text=House+23+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+23+Secondary+1",
@@ -420,7 +420,7 @@
     "country": "tunisia",
     "city": "sfax",
     "roomNumber": 5,
-    "price": 350000,
+    "price": 350,
     "mainImage": "https://via.placeholder.com/600x400?text=House+24+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+24+Secondary+1",
@@ -438,7 +438,7 @@
     "country": "tunisia",
     "city": "sfax",
     "roomNumber": 4,
-    "price": 500000,
+    "price": 500,
     "mainImage": "https://via.placeholder.com/600x400?text=House+25+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+25+Secondary+1",
@@ -456,7 +456,7 @@
     "country": "tunisia",
     "city": "sfax",
     "roomNumber": 6,
-    "price": 450000,
+    "price": 450,
     "mainImage": "https://via.placeholder.com/600x400?text=House+26+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+26+Secondary+1",
@@ -474,7 +474,7 @@
     "country": "tunisia",
     "city": "sfax",
     "roomNumber": 7,
-    "price": 600000,
+    "price": 600,
     "mainImage": "https://via.placeholder.com/600x400?text=House+27+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+27+Secondary+1",
@@ -492,7 +492,7 @@
     "country": "tunisia",
     "city": "sfax",
     "roomNumber": 4,
-    "price": 700000,
+    "price": 700,
     "mainImage": "https://via.placeholder.com/600x400?text=House+28+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+28+Secondary+1",
@@ -510,7 +510,7 @@
     "country": "tunisia",
     "city": "sfax",
     "roomNumber": 2,
-    "price": 150000,
+    "price": 150,
     "mainImage": "https://via.placeholder.com/600x400?text=House+29+Main",
     "secondaryImages": [
       "https://via.placeholder.com/300x200?text=House+29+Secondary+1",
